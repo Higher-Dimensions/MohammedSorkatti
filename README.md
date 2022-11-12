@@ -29,7 +29,7 @@ value="YOUR NAME, Department of Mathematics, Texas A&amp;M University"
 -->
 
 <head>
-  <title>Layla Sorkatti</title>
+  <title>Mohamed Sorkatti</title>
   <link href="css/scs.css" rel="stylesheet" type="text/css">
   <link rel="icon" href="icon.png">
 
@@ -75,7 +75,7 @@ h1 {color: Maroon;}
 
 <div>
 <!-- Photograph -->
-<img src="https://user-images.githubusercontent.com/106450467/183731713-dc25d4bb-bdef-48f2-a848-15049e5e0026.jpg" width="15%" alt="ADD YOUR PHOTO HERE"
+<img src="[https://user-images.githubusercontent.com/106450467/183731713-dc25d4bb-bdef-48f2-a848-15049e5e0026.jpg](https://user-images.githubusercontent.com/117595000/201490391-f8e299b3-ec0e-4ff3-94bb-0b14e7d92c96.jpg)" width="15%" alt="ADD YOUR PHOTO HERE"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;"/>
      
 <!-- Contact info -->
